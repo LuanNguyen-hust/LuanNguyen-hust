@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Personal Projects and Research regarding ML
-- 📫 How to reach me : giyuarata2@gmail.com
+- 📫 How to reach me : nguyenluanlc296@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
